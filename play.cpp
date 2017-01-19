@@ -464,7 +464,7 @@ void showData()
         score++;
         checkpoint = (checkpoint + 11) % 12;
     }
-    sprintf(scorebuffer, "Socre: %ds", score);
+    sprintf(scorebuffer, "Socre: %d", score);
     glDisable(GL_DEPTH_TEST);
     glMatrixMode(GL_PROJECTION);    // 选择投影矩阵
     glPushMatrix();                 // 保存原矩阵
