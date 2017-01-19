@@ -1,1 +1,2 @@
-菜单图标的背景
+Here are the pictures used in the menu of our game.
+documentary form：.bmp
