@@ -1,0 +1,774 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 1.bmp
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd carton.bmp
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108024137744.bmp
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108024202296.bmp
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108024225533.bmp
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108024335369.bmp
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025002897.bmp
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025147783.bmp
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025628494.bmp
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025649843.bmp
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025713446.bmp
+Ni 1.00
+newmtl lambert19SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025740124.bmp
+Ni 1.00
+newmtl lambert22SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl lambert23SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030511350.bmp
+Ni 1.00
+newmtl lambert25SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl lambert26SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl lambert27SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031125501.bmp
+Ni 1.00
+newmtl lambert28SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl lambert29SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031245190.bmp
+Ni 1.00
+newmtl lambert30SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031303747.bmp
+Ni 1.00
+newmtl lambert32SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031348892.bmp
+Ni 1.00
+newmtl lambert33SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031413912.bmp
+Ni 1.00
+newmtl lambert34SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031438938.bmp
+Ni 1.00
+newmtl lambert35SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 2017010802424482.bmp
+Ni 1.00
+newmtl lambert36SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 2017010802382141.bmp
+Ni 1.00
+newmtl lambert37SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108024010937.bmp
+Ni 1.00
+newmtl lambert38SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108023915105.bmp
+Ni 1.00
+newmtl lambert40SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl lambert41SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl lambert42SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl lambert43SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl lambert44SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031245190.bmp
+Ni 1.00
+newmtl lambert45SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031245190.bmp
+Ni 1.00
+newmtl lambert46SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031303747.bmp
+Ni 1.00
+newmtl lambert47SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031303747.bmp
+Ni 1.00
+newmtl lambert48SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl lambert49SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl lambert50SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030243949.bmp
+Ni 1.00
+newmtl pasted__lambert4SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 1.bmp
+Ni 1.00
+newmtl pasted__lambert5SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd carton.bmp
+Ni 1.00
+newmtl pasted__lambert5SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd carton.bmp
+Ni 1.00
+newmtl pasted__lambert14SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025002897.bmp
+Ni 1.00
+newmtl pasted__lambert16SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025628494.bmp
+Ni 1.00
+newmtl pasted__lambert17SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025649843.bmp
+Ni 1.00
+newmtl pasted__lambert18SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025713446.bmp
+Ni 1.00
+newmtl pasted__lambert19SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025740124.bmp
+Ni 1.00
+newmtl pasted__lambert22SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__lambert22SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__lambert22SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__lambert23SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030511350.bmp
+Ni 1.00
+newmtl pasted__lambert25SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__lambert25SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__lambert26SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl pasted__lambert27SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031125501.bmp
+Ni 1.00
+newmtl pasted__lambert27SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031125501.bmp
+Ni 1.00
+newmtl pasted__lambert28SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl pasted__lambert28SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl pasted__lambert29SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031245190.bmp
+Ni 1.00
+newmtl pasted__lambert30SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031303747.bmp
+Ni 1.00
+newmtl pasted__lambert32SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031348892.bmp
+Ni 1.00
+newmtl pasted__lambert34SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031438938.bmp
+Ni 1.00
+newmtl pasted__lambert37SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108024010937.bmp
+Ni 1.00
+newmtl pasted__lambert38SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108023915105.bmp
+Ni 1.00
+newmtl pasted__lambert48SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl pasted__lambert49SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__lambert49SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__lambert50SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030243949.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert4SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 1.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert5SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd carton.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert18SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025713446.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert19SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025740124.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert22SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert22SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert22SG3
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert23SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030511350.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert23SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030511350.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert25SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert26SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert27SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031125501.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert27SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031125501.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert28SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031206170.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert34SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031438938.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert36SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 2017010802382141.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert36SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 2017010802382141.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert48SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert49SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__pasted__lambert50SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030243949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd carton.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert18SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108025713446.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG3
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030511350.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030511350.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert26SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert27SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031125501.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert34SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031438938.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert48SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108031039933.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert49SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030558376.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert50SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030243949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd carton.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert22SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert22SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert22SG3
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert50SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030243949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert22SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert22SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030206949.bmp
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert50SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd 20170108030243949.bmp
+Ni 1.00
